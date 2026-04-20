@@ -4,12 +4,6 @@ A Machine Learning web application that predicts medical insurance costs based o
 
 ---
 
-## 🚀 Live Demo
-
-🔗 https://your-live-link.com *(Add if deployed — Render / Railway / etc.)*
-
----
-
 ## 📌 Features
 
 * Predicts insurance charges using a trained ML model
